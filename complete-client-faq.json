@@ -1,0 +1,35 @@
+{
+  "id": "faq_001",
+ 
+  "category": "clients",
+  "question": "How do I add a client?",
+ 
+  "short_answer": "No.",
+ 
+  "long_answer": "Go to the Clients section from your dashboard and tap on Add Client. Enter the client's basic details and follow the steps shown on screen to complete the onboarding process.",
+ 
+  "video": {
+    "provider": "mux",
+    "playback_id": "nge4UJ7JO63YS3okwEdXRbhl37Frb00jiLFmQUvHbWuI",
+    "stream_url": "https://stream.mux.com/nge4UJ7JO63YS3okwEdXRbhl37Frb00jiLFmQUvHbWuI.m3u8",
+    "player_url": "https://player.mux.com/nge4UJ7JO63YS3okwEdXRbhl37Frb00jiLFmQUvHbWuI",
+    "duration_seconds": 45,
+ 
+    "thumbnail": {
+      "url": "https://example.com/thumbnail.jpg",
+      "width": 720,
+      "height": 1280
+    }
+  },
+ 
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+ 
+  "tags": [
+    "client",
+    "onboarding",
+    "add client"
+  ],
+ 
+  "sort_order": 1,
+  "is_active": true
+}

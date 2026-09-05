@@ -1,0 +1,144 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "category": "investment_safety",
+      "question": "Can I withdraw my investment whenever I want?",
+      "short_answer": "Yes",
+      "long_answer": "Yes. You can redeem your investment at any time, subject to the applicable scheme terms, exit load and taxation rules.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "uzfiGOyZ47nu4CsUHGqR8VG7W48Q1PjuiP8ct1S00FNY",
+        "asset_id": "qDMbaCw3xYCfUWpjDcVighoSMVnwZWcB7sBOc3z79fo",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/can_i_withdraw_my_investment_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "faq_002",
+      "category": "investment_safety",
+      "question": "Whose name is the investment registered in?",
+      "short_answer": "Yours",
+      "long_answer": "The investment is made directly in your name with the respective Asset Management Company (AMC). You remain the legal owner of your investments at all times.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "NNohk26iyDhLfMbzSJ8hhsCgtkKqvmOptJZNZey2Br4",
+        "asset_id": "S9XNnu7u4PQs6gMAqd2ynnG02Brp8THqpLO01GL5rsqqc",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/whose_name_investment_registered_in_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": "faq_003",
+      "category": "investment_safety",
+      "question": "Do I transfer money to your company?",
+      "short_answer": "No",
+      "long_answer": "No. Your money is never transferred to our bank account. It is paid directly through the Bombay Stock Exchange Mutual Fund Exchange platform to the Indian Clearing Corporation, which processes the transaction with the respective AMC.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "kP72YEPeZRUAG00L1RVWgZy02wRglcChVRkIbUiC01VCzE",
+        "asset_id": "2Z00HxUFkRzfCv5KXzZE1tjkXfO01S5qPEjJ6bat2tS3E",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/do_i_transfer_money_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "id": "faq_004",
+      "category": "investment_safety",
+      "question": "Am I dependent on your app to access or redeem my investment?",
+      "short_answer": "No",
+      "long_answer": "No. You can redeem or manage your investment through our app, another investment platform, or directly through the AMC you invested with.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "nge4UJ7JO63YS3okwEdXRbhl37Frb00jiLFmQUvHbWuI",
+        "asset_id": "I6we174ZItWSXgkXaMOdG7FODCctoYtvkV8uHRmTq2E",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/am_i_dependent_to_redeem_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 4,
+      "is_active": true
+    },
+    {
+      "id": "faq_005",
+      "category": "fees",
+      "question": "Do I need to pay you any extra fees?",
+      "short_answer": "You do not pay us management fee.",
+      "long_answer": "You do not pay us management fee. We receive a commission of approximately 0.7% per year from the AMC for facilitating and servicing your investment.\n\nFor example, if you invest ₹1 lakh, we may earn approximately ₹700 over a year. This does not require you to make any separate payment to us.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "UNd1XLPUEMvI02jc7iZNF00sx01a3l6cOXdegds5QRx8Oc",
+        "asset_id": "Gjx5wgDKYFI3WkbNwAiSV4Tuuszf4oYUbrN00XwtfWR4",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/do_i_pay_extra_fees_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 5,
+      "is_active": true
+    },
+    {
+      "id": "faq_006",
+      "category": "investment_process",
+      "question": "Do I need to open a Demat account to invest in mutual funds?",
+      "short_answer": "No",
+      "long_answer": "No. You can redeem or manage your investment through our app, another investment platform, or directly through the AMC you invested with.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "OsTxQpUxmriBJACxHnS7rrBETobOlsiLmWP9WeI2aAk",
+        "asset_id": "jbKhJFuSavk01f4gpfIRVkQGePlCGoTBI3QRXHdF4GY8",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/do_i_need_demat_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 6,
+      "is_active": true
+    },
+    {
+      "id": "faq_007",
+      "category": "service",
+      "question": "What if I am not satisfied with your service?",
+      "short_answer": "You are never locked in with us.",
+      "long_answer": "You are never locked in with us. Every mutual fund distributor has a unique AMFI Registration Number, known as an ARN.\n\nYou can request to change the distributor linked to your mutual fund folios by submitting the applicable change request. Your new distributor can then assist you with servicing your portfolio and facilitating future transactions.\n\nChanging your distributor does not require you to sell or redeem your investments. Your mutual fund units remain invested in your name, so the change itself does not trigger capital-gains tax, exit load or any other redemption-related charge.\n\nYou retain complete ownership and control of your investments throughout the process.",
+      "video": {
+        "provider": "mux",
+        "playback_id": "004Hh85cZXSaxjOJmOUJxqbDYx2mxhqh7O1bFdWA9wLs",
+        "asset_id": "aAG7L4QkVnpwV02Gz6I005OR6OvbGddBoQbSVfQUM6ocg",
+        "duration_seconds": null,
+        "thumbnail": {
+          "url": "https://cdn.jsdelivr.net/gh/tejas-bhuwania-dhansaarthi/dhansaarthi-assets@main/what_if_not_satisfied_v2.png",
+          "width": 1090,
+          "height": 1920
+        }
+      },
+      "sort_order": 7,
+      "is_active": true
+    }
+  ]
+}
